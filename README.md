@@ -62,8 +62,8 @@ streamlit run app.py
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
 ## 🔗 Connect With Me
-- **GitHub:** [rutikakengal](https://github.com/rutikakengal)
-- **LinkedIn:** [rutikakengal](www.linkedin.com/in/rutika-kengal-b3b0a22b7)
+- **GitHub:** [Jahnavi Ujiri](https://github.com/jahnaviujiri)
+- **LinkedIn:** [Jahnavi Ujiri](https://www.linkedin.com/in/jahnaviujiri)
 
 ---
 🚀 **Transform your hiring process with AI-powered resume ranking!**
